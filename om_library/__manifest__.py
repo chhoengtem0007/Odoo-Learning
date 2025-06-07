@@ -1,0 +1,15 @@
+{
+    'name' : 'Library Management',
+    'version' : '18.0.1.0.0',
+    'category' :'Library',
+    'author' : 'CHHOENG TEM',
+    'sequence' : -75,
+    'summary' : 'This is Library management system',
+    'discription' : 'This is Library management system',
+    'depends' : [],
+    'data' : [],
+    'demeo' : [],
+    'application' : True,
+    'auto_install' : False,
+    'asset' : {},
+}
