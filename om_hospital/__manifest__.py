@@ -1,5 +1,5 @@
 {
-    'name' : 'Contact Management',
+    'name' : 'Hospital Management',
     'version' : '18.0.1.0.0',
     'category' :'Hospital',
     'author' : 'CHHOENG TEM',
